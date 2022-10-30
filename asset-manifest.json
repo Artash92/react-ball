@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Artash92/react-ball.git/static/css/main.75dd3151.css",
+    "main.js": "/Artash92/react-ball.git/static/js/main.c1fa3a03.js",
+    "static/js/787.d94e322a.chunk.js": "/Artash92/react-ball.git/static/js/787.d94e322a.chunk.js",
+    "static/media/bottle.svg": "/Artash92/react-ball.git/static/media/bottle.60f285a16f7a058e5fcd5656e44aef7b.svg",
+    "static/media/ball.svg": "/Artash92/react-ball.git/static/media/ball.9f4474b9a7b48986a73ffe5cfdf643bc.svg",
+    "index.html": "/Artash92/react-ball.git/index.html",
+    "main.75dd3151.css.map": "/Artash92/react-ball.git/static/css/main.75dd3151.css.map",
+    "main.c1fa3a03.js.map": "/Artash92/react-ball.git/static/js/main.c1fa3a03.js.map",
+    "787.d94e322a.chunk.js.map": "/Artash92/react-ball.git/static/js/787.d94e322a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75dd3151.css",
+    "static/js/main.c1fa3a03.js"
+  ]
+}
